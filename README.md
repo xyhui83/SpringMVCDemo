@@ -1,0 +1,2 @@
+# SpringMVCDemo
+springmvc表单验证示例代码，包含jsp和freemarker
